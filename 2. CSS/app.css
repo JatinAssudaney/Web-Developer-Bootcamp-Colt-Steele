@@ -1,0 +1,29 @@
+/*https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+--> Very Important Article
+*/
+
+*{
+	margin: 0px;
+}
+
+#container{
+	color: red;
+}
+
+/*Id is more powerful*/
+
+.try{
+	color: blue;
+}
+
+.top{
+	color: blue;
+}
+
+li a{
+	text-decoration: none;
+}
+
+#container > ul {
+  border: 1px solid black;
+}

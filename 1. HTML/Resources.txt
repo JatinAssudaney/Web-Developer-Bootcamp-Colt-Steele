@@ -1,0 +1,9 @@
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+
+https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
+
+https://tympanus.net/codrops/css_reference/
